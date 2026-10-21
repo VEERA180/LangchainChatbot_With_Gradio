@@ -1,0 +1,5 @@
+config/.env
+memory/
+LangChatbot/
+__pycache__/
+*.pyc
